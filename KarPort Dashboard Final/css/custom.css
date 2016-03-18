@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background: #000; 
+}
+
+.fsbg{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+#bgvideo { 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;    
+}
+
+@media(min-aspect-ratio: 16/9){
+    #bgvideo{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio: 16/9){
+    #bgvideo{
+        width: auto;
+        height: 100%;
+    }
+}
+
+#logo{
+    width: 30%;
+    height: auto;
+}
+
+.try{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.kalilogo{
+    height: 5%;
+    width: auto;
+}
+
