@@ -52,7 +52,7 @@ It cointains options like day view and the view of all the zones in the parking 
 
 
 
-This is [on GitHub](https://github.com/IoTKali/Web/blob/master/index%202.html) so let me know if I've worked it somewhere.
+This is [on GitHub](https://github.com/IoTKali/D3Visualization/blob/master/KarPort%20Dashboard%20Final/index.html) so let me know if I've worked it somewhere.
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 
